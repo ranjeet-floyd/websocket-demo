@@ -1,0 +1,5 @@
+com/example/websocket/demo/server/Handler.class
+com/example/websocket/demo/ClientDemoApplication.class
+com/example/websocket/demo/WebsocketDemoApplication.class
+com/example/websocket/demo/client/DemoClient.class
+com/example/websocket/demo/server/WebSocketConfiguration.class
